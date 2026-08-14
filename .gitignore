@@ -1,0 +1,20 @@
+# Rust
+backend/target/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# 打包产物
+dist/
+
+# 运行时数据
+bin/
+data/
+*.log
+
+# WorkBuddy 工作区数据
+.workbuddy/
+
+# 测试目录
+testrun/
